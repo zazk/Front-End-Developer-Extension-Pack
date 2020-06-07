@@ -3,6 +3,21 @@
     "displayName": "Front End Developer Extension Pack",
     "description": "React/Angular/NodeJS Extension Pack",
     "publisher": "devheads",
+    "icon": "images/front-dev-pack-icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zazk/Front-End-Developer-Extension-Pack.git"
+    },
+    "keywords": [
+        "Angular",
+        "React",
+        "ReactJS",
+        "TypeScript",
+        "NodeJS"
+    ],
+    "galleryBanner": {
+        "color": "#0273D4",
+        "theme": "dark"},
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.45.0"

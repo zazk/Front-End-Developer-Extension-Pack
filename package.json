@@ -1,0 +1,21 @@
+{
+    "name": "front-end-developer-extension-pack",
+    "displayName": "Front End Developer Extension Pack",
+    "description": "React/Angular/NodeJS Extension Pack",
+    "publisher": "devheads",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "eamodio.gitlens",
+        "kisstkondoros.vscode-codemetrics",
+        "johnpapa.angular-essentials",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "msjsdiag.vscode-react-native"
+    ]
+}
